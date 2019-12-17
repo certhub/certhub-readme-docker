@@ -32,7 +32,7 @@ def update_readme(readme, repo, token):
     with open(readme) as fpin:
         description = fpin.read()
 
-    url = "https://cloud.docker.com/v2/repositories/{:s}/".format(repo)
+    url = "https://hub.docker.com/v2/repositories/{:s}/".format(repo)
     headers = {
         "Content-Type": "application/json",
         "Authorization": "JWT {:s}".format(token),
@@ -42,7 +42,7 @@ def update_readme(readme, repo, token):
         "full_description": description,
     }
 
-    client = HTTPSConnection("cloud.docker.com")
+    client = HTTPSConnection("hub.docker.com")
     client.request("PATCH", url, body=json.dumps(body), headers=headers)
     resp = client.getresponse()
     assert resp.status == 200
