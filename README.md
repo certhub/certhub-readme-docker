@@ -1,11 +1,11 @@
 # Supported tags and respective `Dockerfile` links
 
--	[`certbot-rolling` (*Dockerfile*)](https://github.com/certhub/certhub-certbot-docker/blob/master/Dockerfile)
--	[`dehydrated-rolling` (*Dockerfile*)](https://github.com/certhub/certhub-dehydrated-docker/blob/master/Dockerfile)
--	[`lego-rolling`, (*Dockerfile*)](https://github.com/certhub/certhub-lego-docker/blob/master/Dockerfile)
--	[`certbot`, `certbot-1`, `certbot-1.14`, `certbot-1.14.3` (*Dockerfile*)](https://github.com/certhub/certhub-certbot-docker/blob/v1.14.3/Dockerfile)
--	[`dehydrated`, `dehydrated-0`, `dehydrated-0.12`, `dehydrated-0.12.2` (*Dockerfile*)](https://github.com/certhub/certhub-dehydrated-docker/blob/v0.12.2/Dockerfile)
--	[`lego`, `lego-1`, `lego-1.12`, `lego-1.12.3` (*Dockerfile*)](https://github.com/certhub/certhub-lego-docker/blob/v1.12.3/Dockerfile)
+-	[`certbot-rolling` (*Dockerfile*)](https://github.com/certhub/certhub-certbot-docker/blob/develop/Dockerfile)
+-	[`dehydrated-rolling` (*Dockerfile*)](https://github.com/certhub/certhub-dehydrated-docker/blob/develop/Dockerfile)
+-	[`lego-rolling`, (*Dockerfile*)](https://github.com/certhub/certhub-lego-docker/blob/develop/Dockerfile)
+-	[`certbot`, `certbot-1`, `certbot-1.18`, `certbot-1.18.3` (*Dockerfile*)](https://github.com/certhub/certhub-certbot-docker/blob/v1.18.3/Dockerfile)
+-	[`dehydrated`, `dehydrated-0`, `dehydrated-0.13`, `dehydrated-0.13.5` (*Dockerfile*)](https://github.com/certhub/certhub-dehydrated-docker/blob/v0.13.5/Dockerfile)
+-	[`lego`, `lego-1`, `lego-1.15`, `lego-1.15.2` (*Dockerfile*)](https://github.com/certhub/certhub-lego-docker/blob/v1.15.2/Dockerfile)
 
 # Quick reference
 
@@ -37,4 +37,4 @@ for a live demo setup.
 
 # License
 
-Certhub is licensed under the [GPL-3.0](https://github.com/certhub/certhub/blob/master/LICENSE.txt).
+Certhub is licensed under the [GPL-3.0](https://github.com/certhub/certhub/blob/main/LICENSE.txt).
