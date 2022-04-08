@@ -3,9 +3,9 @@
 -	[`certbot-rolling` (*Dockerfile*)](https://github.com/certhub/certhub-certbot-docker/blob/develop/Dockerfile)
 -	[`dehydrated-rolling` (*Dockerfile*)](https://github.com/certhub/certhub-dehydrated-docker/blob/develop/Dockerfile)
 -	[`lego-rolling`, (*Dockerfile*)](https://github.com/certhub/certhub-lego-docker/blob/develop/Dockerfile)
-	[`certbot`, `certbot-1`, `certbot-1.30`, `certbot-1.30.0` (*Dockerfile*)](https://github.com/certhub/certhub-certbot-docker/blob/v1.30.0/Dockerfile)
--	[`dehydrated`, `dehydrated-0`, `dehydrated-0.18`, `dehydrated-0.18.0` (*Dockerfile*)](https://github.com/certhub/certhub-dehydrated-docker/blob/v0.18.0/Dockerfile)
--	[`lego`, `lego-1`, `lego-1.18`, `lego-1.18.0` (*Dockerfile*)](https://github.com/certhub/certhub-lego-docker/blob/v1.18.0/Dockerfile)
+	[`certbot`, `certbot-1`, `certbot-1.31`, `certbot-1.31.0` (*Dockerfile*)](https://github.com/certhub/certhub-certbot-docker/blob/v1.31.0/Dockerfile)
+-	[`dehydrated`, `dehydrated-0`, `dehydrated-0.18`, `dehydrated-0.18.2` (*Dockerfile*)](https://github.com/certhub/certhub-dehydrated-docker/blob/v0.18.2/Dockerfile)
+-	[`lego`, `lego-1`, `lego-1.19`, `lego-1.19.0` (*Dockerfile*)](https://github.com/certhub/certhub-lego-docker/blob/v1.19.0/Dockerfile)
 
 # Quick reference
 
